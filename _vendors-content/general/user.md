@@ -1,4 +1,5 @@
----
+---infinix hot 10s
+
 manufacturer:
     - general
 ---
